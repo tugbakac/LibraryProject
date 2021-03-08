@@ -1,0 +1,14 @@
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\obj\Debug\Library.DAL.csprojAssemblyReference.cache
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\bin\Debug\Library.DAL.dll.config
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\bin\Debug\Library.DAL.dll
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\bin\Debug\Library.DAL.pdb
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\bin\Debug\EntityFramework.dll
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\bin\Debug\LibraryProject.Entities.dll
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\bin\Debug\LibraryProject.Entities.pdb
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\bin\Debug\EntityFramework.xml
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\obj\Debug\Library.DAL.csproj.CopyComplete
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\obj\Debug\Library.DAL.dll
+C:\Users\tugba.kac\source\repos\LibraryProject\Library.DAL\obj\Debug\Library.DAL.pdb

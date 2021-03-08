@@ -1,0 +1,6 @@
+C:\Users\tugba.kac\source\repos\LibraryProject\LibraryProject.Entities\bin\Debug\LibraryProject.Entities.dll
+C:\Users\tugba.kac\source\repos\LibraryProject\LibraryProject.Entities\bin\Debug\LibraryProject.Entities.pdb
+C:\Users\tugba.kac\source\repos\LibraryProject\LibraryProject.Entities\obj\Debug\LibraryProject.Entities.csprojAssemblyReference.cache
+C:\Users\tugba.kac\source\repos\LibraryProject\LibraryProject.Entities\obj\Debug\LibraryProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tugba.kac\source\repos\LibraryProject\LibraryProject.Entities\obj\Debug\LibraryProject.Entities.dll
+C:\Users\tugba.kac\source\repos\LibraryProject\LibraryProject.Entities\obj\Debug\LibraryProject.Entities.pdb
